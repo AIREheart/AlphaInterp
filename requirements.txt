@@ -1,0 +1,12 @@
+torch
+openfold
+biopython
+pandas
+numpy
+scikit-learn
+shap
+lime
+matplotlib
+seaborn
+py3Dmol
+tqdm
