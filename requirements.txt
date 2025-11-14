@@ -1,12 +1,18 @@
-torch
-openfold
-biopython
-pandas
+torch>=1.13.0
 numpy
+scipy
+pandas
+biopython
+openfold @ git+https://github.com/aqlaboratory/openfold.git@main
+mmseqs2
+rdkit-pypi
 scikit-learn
-shap
-lime
 matplotlib
 seaborn
 py3Dmol
+shap
+lime
 tqdm
+pyyaml
+hydra-core
+tensorboard
